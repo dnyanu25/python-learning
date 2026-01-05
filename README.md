@@ -6,7 +6,7 @@ It starts from core Python fundamentals and progresses toward **agent-oriented p
 ---
 
 ## 📌 Level 1: Python Basics (Core Foundation)
-
+ 
 ### 1️⃣ Print & Variables
 - Printed basic output
 - Used variables to store data
