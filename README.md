@@ -165,7 +165,7 @@ It starts from core Python fundamentals and progresses toward **agent-oriented p
 ### 🔜 Level 7: Multi-Agent Systems
 - Agent-to-agent communication
 - Task delegation
-- Coordinator agent
+- Coordinator agentic system
 
 ---
 
